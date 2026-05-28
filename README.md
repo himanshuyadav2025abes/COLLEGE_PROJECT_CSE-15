@@ -19,6 +19,7 @@ Netflix-clone/
 
 **### Backend (Spring Boot)**
 
+```text
 Demo/
 └── src/main/java/com/example/demo/
     ├── DemoApplication.java  # Main application entry point
