@@ -17,7 +17,7 @@ Netflix-clone/
     ├── main.jsx
     └── index.css
 
-**### Backend (Spring Boot)**
+### Backend (Spring Boot)
 
 ```text
 Demo/
